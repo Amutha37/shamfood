@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.js": "/shamfood/static/js/main.fe37f9c9.chunk.js",
+    "main.js.map": "/shamfood/static/js/main.fe37f9c9.chunk.js.map",
+    "runtime-main.js": "/shamfood/static/js/runtime-main.4c2c7f1b.js",
+    "runtime-main.js.map": "/shamfood/static/js/runtime-main.4c2c7f1b.js.map",
+    "static/js/2.01db6b2e.chunk.js": "/shamfood/static/js/2.01db6b2e.chunk.js",
+    "static/js/2.01db6b2e.chunk.js.map": "/shamfood/static/js/2.01db6b2e.chunk.js.map",
+    "index.html": "/shamfood/index.html",
+    "static/js/2.01db6b2e.chunk.js.LICENSE.txt": "/shamfood/static/js/2.01db6b2e.chunk.js.LICENSE.txt",
+    "static/media/bakedfish.dd3d1bc3.jpg": "/shamfood/static/media/bakedfish.dd3d1bc3.jpg",
+    "static/media/cinnamonrolls.b5d1eb9e.png": "/shamfood/static/media/cinnamonrolls.b5d1eb9e.png",
+    "static/media/datebar.7c442dc2.png": "/shamfood/static/media/datebar.7c442dc2.png",
+    "static/media/mangoslice.7844d9b3.png": "/shamfood/static/media/mangoslice.7844d9b3.png",
+    "static/media/meegoreng.975f8b43.png": "/shamfood/static/media/meegoreng.975f8b43.png",
+    "static/media/noodle2.9ab75b7e.png": "/shamfood/static/media/noodle2.9ab75b7e.png",
+    "static/media/pancakemango.61be3363.jpg": "/shamfood/static/media/pancakemango.61be3363.jpg",
+    "static/media/pulutinti.9f818d31.png": "/shamfood/static/media/pulutinti.9f818d31.png",
+    "static/media/shamlogo.fb03a34b.png": "/shamfood/static/media/shamlogo.fb03a34b.png",
+    "static/media/tofu.4291a634.jpg": "/shamfood/static/media/tofu.4291a634.jpg",
+    "static/media/tomyummeehoon.1bf27b00.png": "/shamfood/static/media/tomyummeehoon.1bf27b00.png",
+    "static/media/tunabread2.211f908c.png": "/shamfood/static/media/tunabread2.211f908c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4c2c7f1b.js",
+    "static/js/2.01db6b2e.chunk.js",
+    "static/js/main.fe37f9c9.chunk.js"
+  ]
+}
